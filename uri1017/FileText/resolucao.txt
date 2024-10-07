@@ -1,0 +1,14 @@
+velocidade media(Vm) = dist/tempo
+
+primeiro calculo será para descobrir a distancia percorrida e em seguida faremos o calculo para saber a uantidade de litros necessario
+
+distancia (S) = velocidade*tempo
+
+1 input será o tempo
+2 input sera velocidade
+
+jogando os valores de 10 hs para tempo e 85 km/h de velocidade nesse periodo, temos que,
+o veiculo percorreu 850 km nessas 10hs. Agora para calcuar a quantidade de combustivel 
+gasto nesse trjeto temos que pegar consumo de combustivel  por quilometro 
+que ja nos é fornecido que é de 12 KM/L e usá-lo como denominador
+para dividir a distancia percorrida 850 / 12.

@@ -1,0 +1,14 @@
+C:\Users\victor\documents\projetos\beecrownd\uri1014\bin\Debug\net8.0\uri1014.exe
+C:\Users\victor\documents\projetos\beecrownd\uri1014\bin\Debug\net8.0\uri1014.deps.json
+C:\Users\victor\documents\projetos\beecrownd\uri1014\bin\Debug\net8.0\uri1014.runtimeconfig.json
+C:\Users\victor\documents\projetos\beecrownd\uri1014\bin\Debug\net8.0\uri1014.dll
+C:\Users\victor\documents\projetos\beecrownd\uri1014\bin\Debug\net8.0\uri1014.pdb
+C:\Users\victor\documents\projetos\beecrownd\uri1014\obj\Debug\net8.0\uri1014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\documents\projetos\beecrownd\uri1014\obj\Debug\net8.0\uri1014.AssemblyInfoInputs.cache
+C:\Users\victor\documents\projetos\beecrownd\uri1014\obj\Debug\net8.0\uri1014.AssemblyInfo.cs
+C:\Users\victor\documents\projetos\beecrownd\uri1014\obj\Debug\net8.0\uri1014.csproj.CoreCompileInputs.cache
+C:\Users\victor\documents\projetos\beecrownd\uri1014\obj\Debug\net8.0\uri1014.dll
+C:\Users\victor\documents\projetos\beecrownd\uri1014\obj\Debug\net8.0\refint\uri1014.dll
+C:\Users\victor\documents\projetos\beecrownd\uri1014\obj\Debug\net8.0\uri1014.pdb
+C:\Users\victor\documents\projetos\beecrownd\uri1014\obj\Debug\net8.0\uri1014.genruntimeconfig.cache
+C:\Users\victor\documents\projetos\beecrownd\uri1014\obj\Debug\net8.0\ref\uri1014.dll

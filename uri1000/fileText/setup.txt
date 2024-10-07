@@ -1,0 +1,3 @@
+Para criar o ambiente DOTNEt, precisamos rodar o comando ' dotnet new console ' no diretorio desejado e todos os arquivos serao criados
+
+Para compilar basta rodar o comando 'dotnet run'  

@@ -1,0 +1,25 @@
+using System; 
+using System.Globalization;
+
+class URI {
+
+    static void Main(string[] args) { 
+        string [] Dimensoes = Console.ReadLine().Split(' ');
+        double A = double.Parse(Dimensoes[0],CultureInfo.CreateSpecificCulture("en-US"));
+        double B = double.Parse(Dimensoes[1],CultureInfo.CreateSpecificCulture("en-US"));
+        double C = double.Parse(Dimensoes[2],CultureInfo.CreateSpecificCulture("en-US"));
+        double PI = 3.14159; 
+
+        double Tri = (A * C)/ 2;
+        double Circ = (C*C)*PI;
+        double Trap = ((A+B)*C)/2;
+        double Quad = B*B;
+        double Retang = A * B;
+        
+        Console.WriteLine("TRIANGULO: " + Tri.ToString("F3", CultureInfo.CreateSpecificCulture("en-US")));
+        Console.WriteLine("CIRCULO: " + Circ.ToString("F3", CultureInfo.CreateSpecificCulture("en-US")));
+        Console.WriteLine("TRAPEZIO: " + Trap.ToString("F3", CultureInfo.CreateSpecificCulture("en-US")));
+        Console.WriteLine("QUADRADO: " + Quad.ToString("F3", CultureInfo.CreateSpecificCulture("en-US")));
+        Console.WriteLine("RETANGULO: " + Retang.ToString("F3", CultureInfo.CreateSpecificCulture("en-US")));
+    }
+}

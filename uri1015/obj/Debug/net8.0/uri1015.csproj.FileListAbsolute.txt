@@ -1,0 +1,14 @@
+C:\Users\victor\documents\Projetos\BeeCrownd\uri1015\bin\Debug\net8.0\uri1015.exe
+C:\Users\victor\documents\Projetos\BeeCrownd\uri1015\bin\Debug\net8.0\uri1015.deps.json
+C:\Users\victor\documents\Projetos\BeeCrownd\uri1015\bin\Debug\net8.0\uri1015.runtimeconfig.json
+C:\Users\victor\documents\Projetos\BeeCrownd\uri1015\bin\Debug\net8.0\uri1015.dll
+C:\Users\victor\documents\Projetos\BeeCrownd\uri1015\bin\Debug\net8.0\uri1015.pdb
+C:\Users\victor\documents\Projetos\BeeCrownd\uri1015\obj\Debug\net8.0\uri1015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\documents\Projetos\BeeCrownd\uri1015\obj\Debug\net8.0\uri1015.AssemblyInfoInputs.cache
+C:\Users\victor\documents\Projetos\BeeCrownd\uri1015\obj\Debug\net8.0\uri1015.AssemblyInfo.cs
+C:\Users\victor\documents\Projetos\BeeCrownd\uri1015\obj\Debug\net8.0\uri1015.csproj.CoreCompileInputs.cache
+C:\Users\victor\documents\Projetos\BeeCrownd\uri1015\obj\Debug\net8.0\uri1015.dll
+C:\Users\victor\documents\Projetos\BeeCrownd\uri1015\obj\Debug\net8.0\refint\uri1015.dll
+C:\Users\victor\documents\Projetos\BeeCrownd\uri1015\obj\Debug\net8.0\uri1015.pdb
+C:\Users\victor\documents\Projetos\BeeCrownd\uri1015\obj\Debug\net8.0\uri1015.genruntimeconfig.cache
+C:\Users\victor\documents\Projetos\BeeCrownd\uri1015\obj\Debug\net8.0\ref\uri1015.dll

@@ -1,0 +1,5 @@
+Para facilitar a compreensao deste exercicio, precisamos entender que ambos carros partirão a 
+velociadades constantes,  nao nos interessa saber tempo para aceleraçao atingir a 
+veloricadade constante. É pedido apenas o momento em 'tempo' para que o carro 'Y' que vai 
+estar a 90km/h  vai atingir a exata distanca de 30 km a frente do carro 'X' que vai 
+estar a velocidade de 60km/h. O enunciado complementa que do carro 'Y' se  distancia 1 km a cada 2 minutos
